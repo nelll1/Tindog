@@ -30,3 +30,10 @@
 .text-header{
   width: 17rem;
 }
+.feature-container p{
+  font-weight: 600;
+}
+.profile-image{
+  border-radius: 50%;
+  height: 100px;
+}
